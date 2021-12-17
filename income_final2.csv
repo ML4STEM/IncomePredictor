@@ -1,4 +1,4 @@
-﻿age,educational-num,gender,capital-gain,hours-per-week,native-country,income
+﻿Age,Education-Years,Gender,Capital-Gain,Weekly-Working-Hours,Native-Country-HDI,Income-Level
 17,15,1,99999,80,0.92,0
 18,14,1,99999,55,0.92,0
 18,15,1,99999,60,0.92,0
